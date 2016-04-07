@@ -29,3 +29,9 @@ img {
 	left: 130px;
 	color: #06C603;
 }
+.foto img:hover{
+	height: 280px;
+	width: 280px;
+	opacity: 0.6;
+	background-color: rgba(2104, 83, 35, 0.3);
+}
