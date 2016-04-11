@@ -22,10 +22,11 @@ img {
 	display: inline-block;
 	left: 80px;
 	margin: 15px;
+	color: #06C603;
 }
 #nombre {
 	position: absolute;
 	top: 220px;
 	left: 130px;
-	color: #06C603;
+
 }
